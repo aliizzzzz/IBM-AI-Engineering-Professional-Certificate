@@ -1,1 +1,1 @@
-# IBM-ML-and-AI-Course
+# IBM ML and AI Course
