@@ -1,1 +1,1 @@
-# IBM ML and AI Course
+# Labs - AI Engineering Professional Certificate
